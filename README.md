@@ -51,7 +51,7 @@
 
 ## Project Drive Links 🔗
 
-📁 **Drive Folder ( All Files ) :** [Open Folder](PASTE_FOLDER_LINK)  
+📁 **Drive Folder ( All Files ) :** [Open Folder](https://drive.google.com/drive/folders/1atVCuWNVSUrkbQAzet8V5jTWNY0L__nG?usp=drive_link)  
 🎥 **Demo Video ( Direct File Link ) :** [Watch Here](PASTE_VIDEO_FILE_LINK)  
 📄 **Project Report ( Google Docs ) :** [Open Here](PASTE_DOC_LINK)  
 📊 **Presentation ( Google Slides ) :** [View Here](PASTE_SLIDES_LINK)  
