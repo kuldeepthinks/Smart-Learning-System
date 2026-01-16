@@ -69,7 +69,7 @@ AI-Personalized-Learning-System/
 │── requirements.txt
 │── README.md
 ├── notebooks/
-│   └── main_notebook.ipynb
+│   └── AI_Personalized_Learning_System.ipynb
 ├── data/
 │   ├── student_performance_dataset_500.csv
 │   └── student_quiz_performance_500.csv
