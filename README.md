@@ -63,14 +63,15 @@
 
 ```bash
 AI-Personalized-Learning-System/
-│── app.py
+│── Smart_Learning_System.py
 │── requirements.txt
 │── README.md
 ├── notebooks/
 │   └── main_notebook.ipynb
 ├── data/
-│   ├── learners_dataset.csv
-│   └── quiz_questions.csv
+│   ├── student_performance_dataset_500.csv
+│   └── student_quiz_performance_500.csv
+    └── quiz_question_bank_500.csv
 └── assets/
     ├── banner.png
     └── screenshots/
