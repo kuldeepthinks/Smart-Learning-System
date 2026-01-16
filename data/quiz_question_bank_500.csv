@@ -1,0 +1,501 @@
+topic,difficulty,question,option1,option2,option3,option4,correct_index,hint,explanation
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Probability,hard,What is the probability of getting heads in a fair coin toss? (Answer carefully and justify),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Probability,hard,What is the probability of getting heads in a fair coin toss? (Answer carefully and justify),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Linear Algebra,hard,"What is the determinant of [[1,2],[3,4]]? (Answer carefully and justify)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Probability,hard,What is the probability of getting heads in a fair coin toss? (Answer carefully and justify),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Linear Algebra,hard,"What is the determinant of [[1,2],[3,4]]? (Answer carefully and justify)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Probability,hard,What is the probability of getting heads in a fair coin toss? (Answer carefully and justify),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,hard,What is the probability of getting heads in a fair coin toss? (Answer carefully and justify),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Linear Algebra,hard,"What is the determinant of [[1,2],[3,4]]? (Answer carefully and justify)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,hard,What is the probability of getting heads in a fair coin toss? (Answer carefully and justify),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Calculus,easy,Find the derivative of f(x) = x^2,2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Number Systems,hard,Convert binary 1010 to decimal. (Answer carefully and justify),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Trigonometry,hard,What is sin(90°)? (Answer carefully and justify),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Linear Algebra,hard,"What is the determinant of [[1,2],[3,4]]? (Answer carefully and justify)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Number Systems,hard,Convert binary 1010 to decimal. (Answer carefully and justify),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,hard,What is the probability of getting heads in a fair coin toss? (Answer carefully and justify),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Data Interpretation,medium,"If a value increases from 50 to 60, what is the percentage increase? (Show steps)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Statistics,hard,"What is the mean of 2, 4, 6, 8? (Answer carefully and justify)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Number Systems,hard,Convert binary 1010 to decimal. (Answer carefully and justify),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Number Systems,hard,Convert binary 1010 to decimal. (Answer carefully and justify),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Data Interpretation,easy,"If a value increases from 50 to 60, what is the percentage increase?",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Linear Algebra,hard,"What is the determinant of [[1,2],[3,4]]? (Answer carefully and justify)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Algebra,medium,Solve for x: 2x + 5 = 17 (Show steps),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Mensuration,easy,What is the area of a circle with radius 7? (Use π = 22/7),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Number Systems,hard,Convert binary 1010 to decimal. (Answer carefully and justify),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Trigonometry,easy,What is sin(90°)?,0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Statistics,easy,"What is the mean of 2, 4, 6, 8?",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Probability,medium,What is the probability of getting heads in a fair coin toss? (Show steps),0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Geometry,hard,What is the sum of interior angles of a triangle? (Answer carefully and justify),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Geometry,medium,What is the sum of interior angles of a triangle? (Show steps),90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Statistics,medium,"What is the mean of 2, 4, 6, 8? (Show steps)",4,5,6,7,1,Add all values and divide by how many numbers there are.,Mean = (2+4+6+8)/4 = 20/4 = 5.
+Algebra,hard,Solve for x: 2x + 5 = 17 (Answer carefully and justify),x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Probability,easy,What is the probability of getting heads in a fair coin toss?,0,0.25,0.5,1,2,There are two equally likely outcomes.,A fair coin has 2 outcomes. Probability of heads = 1/2 = 0.5.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Trigonometry,medium,What is sin(90°)? (Show steps),0,1,-1,0.5,1,Use the unit circle values.,"On the unit circle, sin(90°) = 1."
+Geometry,easy,What is the sum of interior angles of a triangle?,90°,180°,270°,360°,1,It is always constant for any triangle.,The interior angles of any triangle always add up to 180°.
+Linear Algebra,medium,"What is the determinant of [[1,2],[3,4]]? (Show steps)",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Calculus,medium,Find the derivative of f(x) = x^2 (Show steps),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."
+Mensuration,medium,What is the area of a circle with radius 7? (Use π = 22/7) (Show steps),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Algebra,easy,Solve for x: 2x + 5 = 17,x = 6,x = 5,x = 7,x = 4,0,"Move 5 to the other side, then divide by 2.",2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6.
+Number Systems,hard,Convert binary 1010 to decimal. (Answer carefully and justify),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Data Interpretation,hard,"If a value increases from 50 to 60, what is the percentage increase? (Answer carefully and justify)",10%,15%,20%,25%,2,Percentage increase = (new-old)/old * 100.,Increase = 60-50 = 10. % increase = (10/50)*100 = 20%.
+Number Systems,easy,Convert binary 1010 to decimal.,8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Mensuration,hard,What is the area of a circle with radius 7? (Use π = 22/7) (Answer carefully and justify),154,44,49,308,0,Area = πr^2.,Area = (22/7)*7^2 = (22/7)*49 = 154.
+Linear Algebra,easy,"What is the determinant of [[1,2],[3,4]]?",-2,2,10,-10,0,"For 2x2 matrix, det = ad - bc.",det = (1*4) - (2*3) = 4 - 6 = -2.
+Number Systems,medium,Convert binary 1010 to decimal. (Show steps),8,9,10,11,2,"Use place values: 8,4,2,1.",1010₂ = 1*8 + 0*4 + 1*2 + 0*1 = 10.
+Calculus,hard,Find the derivative of f(x) = x^2 (Answer carefully and justify),2x,x,x^3,2,0,Use the power rule: d/dx(x^n) = n*x^(n-1).,"Using the power rule, d/dx(x^2) = 2x."

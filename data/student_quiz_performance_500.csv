@@ -1,0 +1,501 @@
+learner_name,accuracy,avg_time,hints_used,retries,date,topic
+Ishita Verma,81,43,0,5,2025-05-21,Calculus
+Gaurav Iyer,28,50,1,5,2025-10-07,Geometry
+Abhishek Singh,75,123,0,0,2025-02-17,Calculus
+Manish Rao,29,144,9,0,2025-10-15,Calculus
+Riya Malhotra,91,154,6,1,2025-08-18,Mensuration
+Kunal Vardhan,35,16,2,5,2025-08-05,Probability
+Yash Iyer,35,54,3,2,2025-02-22,Geometry
+Tanvi Kapoor,48,39,5,2,2025-11-06,Statistics
+Varun Iyer,5,132,8,0,2025-07-13,Geometry
+Tanvi Nair,70,90,10,4,2025-07-05,Mensuration
+Aditya Singh,24,32,0,5,2025-04-27,Statistics
+Yash Malhotra,10,74,1,3,2025-05-23,Number Systems
+Priya Rao,81,108,2,2,2025-07-01,Calculus
+Rajat Agarwal,85,83,10,5,2025-02-06,Mensuration
+Nikhil Yadav,81,58,8,5,2025-05-06,Trigonometry
+Nandini Jha,59,112,4,5,2025-12-19,Data Interpretation
+Priya Kapoor,28,98,0,1,2025-01-17,Probability
+Yash Patel,51,83,1,1,2025-10-18,Probability
+Aarav Kapoor,27,142,6,5,2025-08-23,Trigonometry
+Varun Roy,33,50,3,5,2025-10-15,Data Interpretation
+Simran Tiwari,33,164,6,4,2025-07-24,Probability
+Vivek Joshi,28,50,8,3,2025-02-16,Algebra
+Deepak Agarwal,14,54,10,1,2025-12-15,Linear Algebra
+Meera Kapoor,76,31,6,3,2025-11-02,Number Systems
+Rahul Yadav,67,79,8,0,2025-12-15,Geometry
+Deepak Roy,87,152,4,5,2025-06-24,Geometry
+Sakshi Shah,37,126,2,3,2025-01-02,Statistics
+Aditya Das,64,60,8,0,2025-11-17,Statistics
+Aditya Singh,81,144,9,1,2025-03-20,Probability
+Meera Malhotra,97,56,8,4,2025-01-01,Mensuration
+Rajat Arora,41,140,0,0,2025-07-05,Statistics
+Nandini Vardhan,30,29,3,4,2025-02-10,Geometry
+Kunal Singh,93,139,1,4,2025-03-06,Trigonometry
+Gaurav Saxena,84,136,8,1,2025-05-16,Data Interpretation
+Aditya Saxena,77,123,3,4,2025-12-20,Calculus
+Sneha Pillai,91,94,6,5,2025-11-29,Probability
+Priya Nair,56,147,7,0,2025-05-07,Calculus
+Divya Sinha,8,101,0,4,2025-10-11,Calculus
+Shreya Joshi,75,71,0,0,2025-12-29,Algebra
+Priya Agarwal,29,32,0,2,2025-02-06,Data Interpretation
+Isha Nair,30,86,10,3,2025-04-20,Data Interpretation
+Aditya Pillai,16,161,9,3,2025-05-05,Number Systems
+Rohan Sharma,52,63,1,0,2025-12-04,Linear Algebra
+Nikhil Choudhary,45,123,6,3,2025-01-28,Geometry
+Kavya Menon,7,118,5,0,2025-05-08,Calculus
+Rajat Jain,24,152,7,1,2025-08-05,Trigonometry
+Aditya Pillai,35,133,3,0,2025-08-15,Data Interpretation
+Palak Bhatt,12,27,10,4,2025-01-08,Geometry
+Kunal Yadav,96,75,2,3,2025-09-06,Number Systems
+Varun Singh,27,117,0,1,2025-07-14,Algebra
+Nikhil Tiwari,49,82,7,2,2025-08-05,Data Interpretation
+Aditi Mehta,84,139,2,1,2025-06-01,Calculus
+Aman Pandey,7,163,8,0,2025-06-10,Algebra
+Neha Dubey,6,164,7,4,2025-09-29,Trigonometry
+Rahul Mehta,7,145,1,1,2025-02-05,Mensuration
+Meera Jain,8,75,6,0,2025-10-19,Calculus
+Meera Nair,74,167,0,4,2025-02-11,Linear Algebra
+Manish Pillai,84,164,9,4,2025-06-11,Statistics
+Rohan Arora,26,95,3,2,2025-07-22,Trigonometry
+Siddharth Rao,85,180,4,3,2025-06-11,Geometry
+Aditya Malhotra,1,132,9,4,2025-02-21,Geometry
+Riya Verma,68,69,8,2,2025-03-09,Probability
+Rohan Jain,8,77,5,2,2025-03-22,Number Systems
+Abhishek Kapoor,69,92,9,5,2025-09-28,Algebra
+Nandini Sharma,85,156,4,5,2025-02-23,Trigonometry
+Vivek Shah,33,44,1,5,2025-10-11,Trigonometry
+Ishita Reddy,34,87,9,1,2025-06-25,Calculus
+Varun Pandey,87,177,4,4,2025-09-08,Statistics
+Simran Sharma,6,38,10,3,2025-05-22,Algebra
+Pooja Roy,0,100,2,5,2025-05-15,Trigonometry
+Aman Choudhary,94,128,8,5,2025-08-07,Data Interpretation
+Varun Tiwari,1,43,1,5,2025-03-18,Data Interpretation
+Meera Reddy,4,109,9,4,2025-03-17,Linear Algebra
+Lakshya Sharma,16,25,4,2,2025-01-21,Probability
+Yash Kulkarni,26,78,10,0,2025-07-01,Data Interpretation
+Kunal Roy,52,173,2,1,2025-03-25,Trigonometry
+Anushka Pillai,52,21,2,5,2025-06-20,Linear Algebra
+Deepak Agarwal,85,78,4,1,2025-12-26,Geometry
+Anushka Saxena,48,24,7,1,2025-04-13,Number Systems
+Meera Malhotra,44,93,3,1,2025-01-13,Calculus
+Aman Gupta,51,99,4,0,2025-05-23,Probability
+Sneha Yadav,82,145,6,5,2025-10-02,Probability
+Aditya Kumar,3,44,4,1,2025-10-25,Statistics
+Manish Patel,4,42,9,3,2025-06-26,Probability
+Rajat Patel,55,170,8,0,2025-07-17,Mensuration
+Manish Dubey,24,80,0,5,2025-08-12,Algebra
+Aditi Roy,66,152,10,5,2025-12-10,Calculus
+Sakshi Nair,46,125,1,5,2025-06-19,Mensuration
+Sonia Kapoor,40,46,4,4,2025-06-08,Linear Algebra
+Divya Kaur,41,118,4,4,2025-03-07,Calculus
+Riya Patel,53,112,10,5,2025-03-31,Mensuration
+Lakshya Verma,72,92,6,4,2025-01-01,Statistics
+Rohan Verma,36,68,6,4,2025-11-07,Probability
+Rahul Arora,59,128,7,5,2025-04-20,Data Interpretation
+Tanvi Nair,60,58,10,0,2025-05-26,Data Interpretation
+Arjun Reddy,84,177,9,2,2025-02-17,Calculus
+Sakshi Mishra,86,94,3,1,2025-03-17,Algebra
+Kavya Singh,5,77,7,4,2025-02-07,Number Systems
+Nandini Shah,53,176,9,1,2025-12-23,Linear Algebra
+Shreya Jain,63,117,3,1,2025-12-02,Algebra
+Nandini Kaur,96,42,6,1,2025-04-01,Data Interpretation
+Gaurav Arora,59,27,8,1,2025-03-04,Number Systems
+Meera Iyer,17,133,10,4,2025-10-14,Mensuration
+Yash Das,40,128,9,5,2025-09-16,Linear Algebra
+Harsh Bansal,70,129,2,5,2025-09-01,Number Systems
+Isha Mishra,33,78,10,2,2025-09-24,Number Systems
+Meera Arora,80,76,4,3,2025-02-09,Statistics
+Siddharth Tripathi,30,84,5,2,2025-10-04,Geometry
+Anushka Bhatt,17,53,3,3,2025-12-22,Trigonometry
+Divya Malhotra,90,69,1,3,2025-07-28,Probability
+Gaurav Kaur,69,134,6,0,2025-04-16,Linear Algebra
+Isha Singh,49,164,0,4,2025-07-14,Number Systems
+Simran Reddy,0,105,4,3,2025-08-03,Data Interpretation
+Anushka Sinha,95,154,9,1,2025-09-07,Calculus
+Aarav Kapoor,34,126,7,0,2025-07-19,Probability
+Nikhil Arora,85,118,2,3,2025-03-07,Mensuration
+Priya Joshi,68,21,6,4,2025-10-16,Algebra
+Anushka Kumar,10,179,6,1,2025-08-25,Trigonometry
+Yash Saxena,6,81,6,2,2025-04-19,Number Systems
+Palak Singh,41,101,6,2,2025-08-04,Statistics
+Nikhil Iyer,10,135,0,5,2025-10-04,Algebra
+Manish Saxena,44,72,10,0,2025-11-30,Algebra
+Varun Menon,96,22,3,1,2025-01-11,Mensuration
+Vivek Roy,19,76,2,3,2025-12-09,Geometry
+Neha Gupta,72,70,7,5,2025-05-12,Probability
+Rajat Sinha,21,170,9,5,2025-02-28,Trigonometry
+Aditi Tiwari,39,42,9,0,2025-06-09,Mensuration
+Mohit Singh,86,111,6,5,2025-04-12,Geometry
+Rajat Jha,75,175,3,0,2025-12-23,Statistics
+Simran Arora,87,168,1,4,2025-01-22,Probability
+Shreya Iyer,68,124,10,2,2025-02-05,Data Interpretation
+Arjun Das,82,102,0,3,2025-09-08,Geometry
+Anushka Mehta,55,107,10,3,2025-12-29,Trigonometry
+Sakshi Tiwari,55,60,8,5,2025-05-19,Mensuration
+Vivek Bhatt,68,138,7,3,2025-10-31,Statistics
+Priya Choudhary,41,77,1,2,2025-08-19,Calculus
+Shreya Kapoor,96,133,9,4,2025-12-09,Linear Algebra
+Kavya Pandey,43,22,7,2,2025-04-04,Number Systems
+Divya Kapoor,27,105,4,2,2025-05-24,Mensuration
+Aditi Kumar,89,85,8,0,2025-09-22,Calculus
+Yash Mishra,10,76,6,3,2025-10-12,Calculus
+Manish Das,88,136,10,5,2025-09-09,Number Systems
+Sonia Jha,2,38,4,1,2025-07-27,Calculus
+Harsh Das,39,163,5,3,2025-10-11,Data Interpretation
+Vivek Pillai,44,123,8,2,2025-06-30,Number Systems
+Lakshya Patel,34,93,4,1,2025-03-03,Calculus
+Rahul Tiwari,40,45,8,5,2025-04-05,Calculus
+Divya Sharma,27,138,4,5,2025-10-29,Data Interpretation
+Nikhil Das,76,87,1,1,2025-06-01,Calculus
+Gaurav Patel,46,60,4,0,2025-12-29,Data Interpretation
+Aditya Pillai,16,85,0,0,2025-10-11,Statistics
+Nandini Jain,89,47,10,3,2025-02-22,Algebra
+Kavya Verma,73,87,7,3,2025-08-14,Probability
+Nandini Joshi,23,28,4,3,2025-02-28,Geometry
+Arjun Kaur,51,140,1,4,2025-11-19,Algebra
+Shreya Jha,19,53,9,2,2025-02-13,Calculus
+Aarav Menon,15,157,6,4,2025-11-02,Mensuration
+Sonia Reddy,28,148,6,3,2025-08-15,Statistics
+Kavya Mishra,75,124,4,4,2025-11-14,Algebra
+Harsh Kapoor,78,40,3,5,2025-04-19,Statistics
+Sakshi Malhotra,84,35,2,1,2025-03-30,Data Interpretation
+Shreya Sinha,9,55,0,3,2025-08-19,Mensuration
+Vivek Sharma,60,89,0,1,2025-05-28,Statistics
+Rahul Jain,89,131,1,5,2025-04-30,Statistics
+Tanvi Yadav,100,175,9,5,2025-04-12,Linear Algebra
+Rahul Dubey,14,154,3,5,2025-03-18,Statistics
+Lakshya Sinha,18,33,0,1,2025-06-07,Mensuration
+Siddharth Tripathi,95,160,4,3,2025-03-05,Number Systems
+Ishita Menon,88,92,6,2,2025-09-14,Data Interpretation
+Tanvi Jain,63,127,1,4,2025-01-21,Linear Algebra
+Mohit Sharma,94,97,9,2,2025-01-14,Geometry
+Kavya Kumar,29,162,9,0,2025-12-11,Statistics
+Kunal Pillai,73,25,2,3,2025-09-23,Number Systems
+Gaurav Kumar,35,61,9,3,2025-11-22,Number Systems
+Shreya Sharma,11,135,5,3,2025-06-20,Probability
+Pooja Saxena,85,41,2,2,2025-07-30,Number Systems
+Gaurav Vardhan,36,117,8,0,2025-08-21,Geometry
+Divya Iyer,40,79,5,0,2025-07-26,Data Interpretation
+Riya Pillai,0,153,7,3,2025-01-28,Calculus
+Anushka Choudhary,66,107,9,3,2025-11-17,Number Systems
+Deepak Sharma,97,28,3,2,2025-10-09,Trigonometry
+Simran Kapoor,36,127,7,0,2025-01-15,Mensuration
+Meera Jha,30,55,4,4,2025-01-08,Data Interpretation
+Manish Bhatt,52,38,3,0,2025-08-25,Geometry
+Abhishek Jha,82,54,7,5,2025-05-30,Data Interpretation
+Isha Reddy,90,84,6,3,2025-08-30,Calculus
+Sakshi Roy,58,156,2,3,2025-04-08,Mensuration
+Mohit Singh,65,49,1,2,2025-08-01,Probability
+Anushka Agarwal,100,144,4,0,2025-05-25,Statistics
+Deepak Roy,75,163,10,3,2025-03-18,Number Systems
+Anushka Choudhary,68,138,5,2,2025-10-10,Data Interpretation
+Divya Tripathi,48,131,5,1,2025-12-24,Calculus
+Nikhil Shah,73,113,3,3,2025-01-23,Probability
+Sneha Iyer,95,136,6,3,2025-12-06,Trigonometry
+Anushka Singh,63,24,2,4,2025-10-30,Probability
+Manish Vardhan,12,127,1,4,2025-08-22,Algebra
+Kavya Vardhan,92,51,6,5,2025-03-21,Geometry
+Siddharth Jain,60,82,5,4,2025-12-21,Linear Algebra
+Rajat Rao,83,35,5,5,2025-10-01,Linear Algebra
+Anushka Verma,40,175,7,4,2025-01-19,Mensuration
+Aditi Reddy,8,75,10,5,2025-05-28,Calculus
+Sakshi Gupta,95,38,6,0,2025-11-21,Geometry
+Pooja Patel,56,57,4,0,2025-01-24,Probability
+Mohit Kapoor,7,90,5,2,2025-08-09,Trigonometry
+Palak Singh,31,150,6,4,2025-12-16,Trigonometry
+Deepak Saxena,21,59,1,4,2025-07-15,Mensuration
+Ishita Sinha,87,76,7,4,2025-03-15,Calculus
+Rohan Rao,59,178,4,3,2025-05-11,Algebra
+Pooja Yadav,59,88,10,4,2025-03-22,Geometry
+Nandini Kaur,56,103,9,2,2025-11-24,Linear Algebra
+Harsh Gupta,88,79,7,2,2025-04-12,Linear Algebra
+Aditya Agarwal,61,42,3,3,2025-10-20,Probability
+Ishita Tripathi,73,90,4,0,2025-12-04,Linear Algebra
+Tanvi Iyer,35,17,9,5,2025-01-26,Mensuration
+Isha Iyer,95,142,4,1,2025-11-07,Probability
+Arjun Gupta,28,177,3,4,2025-05-09,Trigonometry
+Harsh Vardhan,80,39,10,5,2025-01-21,Statistics
+Neha Bansal,100,127,0,4,2025-07-06,Trigonometry
+Shreya Menon,11,90,5,5,2025-08-01,Trigonometry
+Palak Agarwal,25,48,8,2,2025-09-29,Data Interpretation
+Kavya Malhotra,34,57,4,3,2025-06-01,Probability
+Aman Mehta,14,134,1,1,2025-04-26,Linear Algebra
+Sneha Sharma,71,108,1,3,2025-01-08,Statistics
+Rohan Saxena,68,46,7,2,2025-12-11,Statistics
+Neha Singh,74,112,10,2,2025-02-25,Calculus
+Simran Mehta,60,21,9,4,2025-06-17,Mensuration
+Arjun Shah,28,180,1,5,2025-08-26,Statistics
+Deepak Singh,83,119,1,1,2025-01-24,Algebra
+Yash Sinha,38,141,1,0,2025-05-01,Data Interpretation
+Riya Iyer,17,114,7,2,2025-12-10,Data Interpretation
+Sakshi Yadav,53,165,2,3,2025-12-02,Geometry
+Riya Yadav,62,172,6,2,2025-01-17,Probability
+Sneha Roy,27,128,7,1,2025-07-05,Geometry
+Riya Kulkarni,87,109,8,5,2025-07-03,Algebra
+Kunal Tiwari,50,85,3,0,2025-08-21,Geometry
+Riya Sharma,84,69,10,5,2025-11-02,Algebra
+Palak Nair,6,100,3,1,2025-10-17,Calculus
+Meera Saxena,8,156,3,4,2025-04-21,Calculus
+Meera Reddy,42,52,9,0,2025-05-22,Trigonometry
+Aman Menon,16,153,4,1,2025-02-26,Algebra
+Arjun Mishra,16,18,5,1,2025-10-29,Probability
+Tanvi Pandey,2,59,4,0,2025-03-06,Linear Algebra
+Arjun Malhotra,67,44,1,3,2025-08-18,Probability
+Aman Vardhan,65,166,1,3,2025-09-15,Calculus
+Yash Iyer,78,26,10,4,2025-06-04,Number Systems
+Riya Joshi,82,22,0,3,2025-07-25,Linear Algebra
+Lakshya Saxena,87,42,7,5,2025-08-16,Geometry
+Neha Pandey,10,97,9,1,2025-02-03,Trigonometry
+Meera Reddy,35,174,10,4,2025-10-08,Probability
+Divya Gupta,48,167,8,2,2025-08-21,Data Interpretation
+Abhishek Kapoor,77,125,1,5,2025-02-28,Data Interpretation
+Harsh Pillai,92,70,6,3,2025-04-27,Linear Algebra
+Tanvi Gupta,43,131,6,3,2025-02-18,Probability
+Lakshya Mehta,54,95,10,2,2025-07-11,Trigonometry
+Harsh Gupta,87,136,1,0,2025-02-13,Geometry
+Sonia Das,55,39,5,1,2025-10-12,Algebra
+Simran Menon,75,158,8,2,2025-12-10,Geometry
+Divya Mehta,52,105,10,3,2025-01-27,Statistics
+Abhishek Tripathi,76,94,5,0,2025-10-23,Data Interpretation
+Harsh Singh,27,54,10,3,2025-04-25,Geometry
+Aman Patel,44,157,5,0,2025-05-23,Mensuration
+Isha Malhotra,28,124,8,4,2025-11-11,Data Interpretation
+Simran Dubey,3,170,10,5,2025-05-17,Algebra
+Kavya Saxena,23,84,4,2,2025-06-29,Algebra
+Rohan Vardhan,23,51,9,5,2025-07-25,Geometry
+Aditya Tripathi,18,177,0,0,2025-09-29,Calculus
+Neha Singh,48,122,7,2,2025-03-22,Probability
+Tanvi Shah,39,98,9,4,2025-02-13,Algebra
+Aman Shah,19,55,9,0,2025-12-12,Geometry
+Tanvi Tripathi,34,128,10,3,2025-09-06,Mensuration
+Simran Kulkarni,56,121,4,1,2025-09-20,Geometry
+Nikhil Saxena,44,125,1,2,2025-12-14,Mensuration
+Rahul Gupta,62,149,10,2,2025-01-24,Calculus
+Mohit Vardhan,50,168,0,0,2025-04-15,Statistics
+Arjun Kaur,27,50,4,2,2025-06-17,Geometry
+Meera Kulkarni,0,142,6,1,2025-03-08,Linear Algebra
+Anushka Yadav,68,73,8,4,2025-12-09,Probability
+Lakshya Bhatt,9,116,0,3,2025-01-10,Number Systems
+Aditya Saxena,9,95,9,3,2025-10-21,Linear Algebra
+Anushka Jha,90,178,6,2,2025-02-28,Linear Algebra
+Priya Kapoor,2,98,2,4,2025-08-24,Probability
+Siddharth Vardhan,11,126,1,1,2025-08-12,Mensuration
+Anushka Malhotra,51,149,1,3,2025-06-08,Probability
+Arjun Jha,28,100,2,0,2025-09-19,Geometry
+Riya Kapoor,67,145,3,2,2025-06-29,Trigonometry
+Rajat Bansal,30,41,2,2,2025-04-12,Trigonometry
+Ananya Kulkarni,77,54,10,0,2025-04-01,Number Systems
+Sakshi Reddy,59,159,9,3,2025-12-15,Mensuration
+Lakshya Menon,82,177,9,2,2025-11-18,Probability
+Mohit Vardhan,19,127,1,3,2025-08-15,Statistics
+Mohit Pillai,35,166,0,2,2025-09-17,Geometry
+Priya Sinha,39,133,7,0,2025-01-30,Probability
+Mohit Kapoor,36,34,10,0,2025-11-11,Mensuration
+Shreya Reddy,64,113,7,4,2025-10-11,Algebra
+Pooja Jha,57,161,10,1,2025-06-14,Mensuration
+Lakshya Sinha,60,143,2,0,2025-08-19,Geometry
+Tanvi Tripathi,43,36,8,5,2025-03-30,Algebra
+Tanvi Pandey,31,127,7,4,2025-09-25,Mensuration
+Aditi Sharma,20,108,5,2,2025-07-18,Linear Algebra
+Riya Pandey,99,101,10,4,2025-01-27,Probability
+Abhishek Mehta,8,99,1,4,2025-12-14,Linear Algebra
+Isha Menon,36,79,10,4,2025-03-18,Probability
+Mohit Nair,10,164,10,1,2025-06-29,Statistics
+Abhishek Tiwari,83,115,2,4,2025-12-29,Geometry
+Ananya Shah,39,158,6,5,2025-06-18,Trigonometry
+Ananya Singh,85,149,1,5,2025-12-10,Linear Algebra
+Priya Jha,65,107,0,2,2025-06-08,Trigonometry
+Yash Joshi,27,102,7,1,2025-04-26,Trigonometry
+Aman Agarwal,19,34,4,0,2025-09-17,Data Interpretation
+Palak Arora,94,149,0,5,2025-06-22,Mensuration
+Anushka Agarwal,16,167,6,1,2025-03-25,Trigonometry
+Gaurav Das,88,174,2,5,2025-08-13,Algebra
+Nikhil Sharma,52,108,10,5,2025-05-02,Number Systems
+Siddharth Reddy,78,87,7,1,2025-10-01,Calculus
+Harsh Pandey,39,135,3,2,2025-12-14,Mensuration
+Yash Tripathi,56,133,4,3,2025-09-15,Data Interpretation
+Sneha Vardhan,53,56,3,4,2025-03-12,Statistics
+Gaurav Malhotra,6,179,7,2,2025-10-11,Geometry
+Sonia Pillai,91,147,1,2,2025-02-12,Trigonometry
+Priya Jain,34,130,8,1,2025-08-12,Geometry
+Rahul Sharma,28,130,5,0,2025-08-01,Algebra
+Lakshya Mishra,50,143,5,1,2025-07-17,Geometry
+Sneha Kapoor,47,72,0,2,2025-02-20,Probability
+Manish Kaur,18,50,0,2,2025-08-30,Trigonometry
+Varun Mehta,97,135,7,4,2025-01-03,Geometry
+Varun Menon,2,80,3,1,2025-10-08,Mensuration
+Divya Malhotra,67,123,1,2,2025-05-02,Statistics
+Nikhil Kaur,15,27,3,3,2025-11-24,Mensuration
+Vivek Kaur,58,31,1,3,2025-11-02,Data Interpretation
+Sneha Tripathi,2,176,8,4,2025-05-04,Trigonometry
+Aarav Bansal,37,124,0,4,2025-06-30,Calculus
+Rajat Sharma,73,121,2,5,2025-12-09,Geometry
+Ishita Menon,67,107,1,4,2025-10-06,Data Interpretation
+Kavya Kapoor,100,144,8,0,2025-07-19,Number Systems
+Siddharth Yadav,5,177,6,2,2025-05-10,Algebra
+Anushka Arora,45,32,5,1,2025-12-03,Geometry
+Deepak Iyer,98,163,5,1,2025-01-23,Probability
+Ishita Singh,69,101,10,1,2025-12-17,Number Systems
+Arjun Agarwal,89,137,10,1,2025-03-11,Geometry
+Shreya Iyer,91,132,0,2,2025-04-14,Algebra
+Manish Menon,25,25,5,2,2025-09-21,Linear Algebra
+Ananya Tripathi,69,136,4,0,2025-11-28,Calculus
+Rohan Roy,36,106,0,5,2025-06-19,Statistics
+Lakshya Mehta,15,109,6,3,2025-08-14,Linear Algebra
+Manish Shah,43,62,7,5,2025-09-12,Probability
+Gaurav Yadav,66,83,1,5,2025-08-06,Geometry
+Isha Yadav,55,169,2,4,2025-05-31,Probability
+Gaurav Roy,13,35,5,5,2025-06-01,Statistics
+Neha Malhotra,57,169,6,1,2025-12-20,Number Systems
+Manish Sharma,44,129,0,5,2025-06-30,Mensuration
+Kunal Singh,55,85,10,0,2025-02-08,Linear Algebra
+Rohan Tripathi,46,146,10,1,2025-01-16,Trigonometry
+Varun Rao,77,127,0,1,2025-02-04,Calculus
+Mohit Pillai,99,180,5,2,2025-07-16,Mensuration
+Kavya Malhotra,4,169,2,5,2025-08-19,Probability
+Nandini Pandey,47,128,1,4,2025-03-12,Data Interpretation
+Isha Agarwal,46,116,5,5,2025-05-23,Calculus
+Gaurav Arora,14,21,2,3,2025-09-23,Linear Algebra
+Priya Pandey,71,45,4,2,2025-12-27,Number Systems
+Meera Bansal,27,171,4,5,2025-09-09,Calculus
+Sneha Dubey,15,49,1,3,2025-03-30,Number Systems
+Deepak Singh,11,96,10,2,2025-12-30,Geometry
+Anushka Choudhary,70,153,4,2,2025-03-22,Trigonometry
+Pooja Mishra,46,145,3,0,2025-04-13,Trigonometry
+Pooja Tripathi,30,141,0,2,2025-10-11,Mensuration
+Harsh Reddy,47,134,8,1,2025-11-10,Geometry
+Lakshya Agarwal,8,94,6,5,2025-09-03,Data Interpretation
+Siddharth Joshi,52,119,9,0,2025-03-06,Probability
+Varun Joshi,82,33,7,3,2025-12-15,Data Interpretation
+Shreya Pandey,44,47,8,5,2025-10-28,Trigonometry
+Shreya Kulkarni,98,48,6,4,2025-01-29,Geometry
+Gaurav Kulkarni,66,54,4,1,2025-03-24,Probability
+Rohan Gupta,90,72,5,4,2025-05-26,Geometry
+Siddharth Gupta,32,65,10,4,2025-05-21,Trigonometry
+Priya Sharma,80,92,9,4,2025-02-17,Data Interpretation
+Ananya Sharma,82,58,9,4,2025-03-20,Trigonometry
+Aditi Dubey,84,174,9,2,2025-10-16,Algebra
+Simran Jain,3,35,0,5,2025-10-23,Statistics
+Nikhil Vardhan,83,68,9,3,2025-11-13,Algebra
+Rajat Pillai,63,175,8,2,2025-11-25,Statistics
+Rohan Iyer,61,77,10,3,2025-06-02,Number Systems
+Aarav Nair,9,30,2,3,2025-08-01,Number Systems
+Rajat Jain,59,67,5,4,2025-03-15,Probability
+Rajat Arora,91,96,5,3,2025-03-08,Probability
+Gaurav Kapoor,65,158,1,2,2025-05-04,Number Systems
+Neha Tripathi,15,83,7,1,2025-03-14,Geometry
+Yash Dubey,6,89,6,4,2025-08-03,Calculus
+Sneha Tiwari,20,98,9,5,2025-06-10,Calculus
+Aditya Das,97,55,7,4,2025-08-28,Number Systems
+Ananya Malhotra,39,142,0,0,2025-07-21,Data Interpretation
+Yash Roy,58,76,3,4,2025-06-30,Algebra
+Palak Sinha,6,87,7,4,2025-12-01,Number Systems
+Neha Patel,36,152,0,0,2025-08-09,Trigonometry
+Tanvi Malhotra,33,108,6,2,2025-01-24,Linear Algebra
+Anushka Tiwari,6,160,8,1,2025-07-05,Data Interpretation
+Deepak Singh,36,33,6,4,2025-08-19,Data Interpretation
+Yash Iyer,35,174,10,4,2025-03-02,Trigonometry
+Yash Nair,12,115,5,2,2025-10-13,Probability
+Arjun Roy,96,51,3,4,2025-09-18,Linear Algebra
+Meera Kulkarni,64,25,0,0,2025-03-12,Probability
+Aarav Tripathi,60,147,7,1,2025-11-07,Data Interpretation
+Nandini Singh,17,98,9,2,2025-03-25,Linear Algebra
+Simran Tripathi,78,91,9,2,2025-09-17,Data Interpretation
+Meera Agarwal,68,140,9,2,2025-09-01,Algebra
+Vivek Jha,47,99,10,0,2025-08-02,Mensuration
+Pooja Saxena,39,176,0,4,2025-08-31,Statistics
+Rahul Reddy,83,163,9,1,2025-01-27,Mensuration
+Aditya Saxena,61,58,8,5,2025-11-14,Linear Algebra
+Manish Dubey,18,77,0,4,2025-12-25,Geometry
+Sneha Jain,24,19,7,2,2025-08-03,Trigonometry
+Palak Mehta,52,67,6,4,2025-11-10,Number Systems
+Riya Roy,94,30,2,4,2025-04-17,Data Interpretation
+Isha Pandey,41,137,8,3,2025-06-10,Trigonometry
+Divya Jha,58,151,5,4,2025-07-01,Statistics
+Varun Kumar,78,138,3,1,2025-05-23,Data Interpretation
+Riya Menon,38,72,4,2,2025-12-27,Calculus
+Aman Saxena,88,140,5,3,2025-06-28,Data Interpretation
+Riya Jain,92,85,4,0,2025-10-21,Data Interpretation
+Anushka Nair,48,116,5,1,2025-05-29,Algebra
+Simran Kaur,36,35,5,3,2025-12-02,Statistics
+Vivek Saxena,95,137,3,1,2025-10-03,Statistics
+Aditya Kapoor,71,84,2,0,2025-11-12,Mensuration
+Vivek Menon,30,77,0,5,2025-09-29,Calculus
+Deepak Patel,81,74,0,0,2025-07-31,Probability
+Divya Sharma,91,135,1,5,2025-03-12,Algebra
+Sonia Iyer,70,55,6,5,2025-09-01,Number Systems
+Simran Shah,83,66,4,2,2025-05-27,Algebra
+Rajat Patel,98,37,10,4,2025-04-29,Data Interpretation
+Simran Pandey,94,24,2,3,2025-04-01,Algebra
+Aman Sharma,50,141,2,5,2025-05-29,Algebra
+Yash Pandey,1,91,9,4,2025-02-24,Probability
+Aman Kulkarni,36,131,10,4,2025-09-26,Number Systems
+Aditi Rao,17,144,7,2,2025-04-09,Geometry
+Shreya Pandey,42,56,7,5,2025-05-12,Trigonometry
+Tanvi Dubey,1,101,4,4,2025-12-12,Calculus
+Nandini Jain,22,171,10,3,2025-08-07,Data Interpretation
+Aman Bansal,41,37,6,5,2025-02-18,Trigonometry
+Meera Choudhary,17,137,5,1,2025-01-04,Statistics
+Arjun Sharma,49,75,7,2,2025-06-18,Statistics
+Gaurav Malhotra,74,161,0,2,2025-12-01,Probability
+Aditi Tiwari,88,75,0,5,2025-03-02,Number Systems
+Aditi Yadav,39,55,6,5,2025-09-15,Statistics
+Meera Tripathi,88,45,10,2,2025-07-08,Mensuration
+Yash Saxena,28,71,2,3,2025-03-20,Number Systems
+Aditi Shah,95,170,5,3,2025-12-26,Data Interpretation
+Sneha Menon,60,152,10,1,2025-05-07,Mensuration
+Sakshi Choudhary,100,35,8,3,2025-09-28,Probability
+Varun Das,9,159,1,0,2025-10-08,Data Interpretation
+Priya Mehta,25,161,8,1,2025-03-26,Probability
+Arjun Saxena,66,128,1,5,2025-04-16,Mensuration
+Kavya Nair,62,38,8,3,2025-01-29,Number Systems
+Arjun Singh,16,146,6,3,2025-10-16,Algebra
+Sneha Jain,71,133,10,2,2025-01-12,Linear Algebra
+Isha Saxena,32,15,3,4,2025-02-07,Algebra
+Rahul Arora,54,103,1,4,2025-01-31,Geometry
+Tanvi Reddy,60,23,4,3,2025-04-03,Trigonometry
+Aditya Bhatt,98,179,10,3,2025-07-11,Linear Algebra
+Pooja Joshi,57,111,6,0,2025-12-16,Data Interpretation
+Rahul Kapoor,17,104,1,1,2025-10-03,Linear Algebra
+Rahul Pillai,67,47,3,0,2025-01-12,Statistics
+Deepak Sinha,59,154,6,4,2025-07-14,Calculus
+Pooja Bhatt,31,132,5,1,2025-05-22,Calculus
+Priya Pillai,92,43,0,5,2025-08-03,Mensuration
+Aditya Bhatt,98,19,3,1,2025-02-04,Geometry
+Rajat Kumar,76,23,7,4,2025-12-11,Algebra
+Ananya Jha,31,26,6,3,2025-04-30,Data Interpretation
+Sakshi Tiwari,27,29,2,4,2025-05-29,Calculus
+Sakshi Iyer,93,162,5,4,2025-11-03,Probability
+Kavya Iyer,30,92,2,5,2025-09-24,Calculus
+Sonia Gupta,52,91,4,0,2025-10-13,Mensuration
+Sneha Roy,94,59,10,5,2025-08-07,Data Interpretation
+Simran Kapoor,63,27,5,5,2025-12-10,Linear Algebra
+Harsh Bhatt,100,149,5,5,2025-08-02,Linear Algebra
+Rahul Malhotra,19,91,6,1,2025-10-03,Number Systems
+Aditi Bhatt,30,72,4,5,2025-03-15,Number Systems
+Divya Tiwari,7,158,6,3,2025-10-13,Data Interpretation
+Nikhil Jain,17,114,3,2,2025-04-15,Probability
+Aarav Mehta,82,35,7,2,2025-02-17,Data Interpretation
+Simran Mehta,92,63,0,2,2025-07-13,Mensuration
+Mohit Pillai,77,25,1,1,2025-10-28,Data Interpretation
+Rajat Shah,27,137,3,2,2025-06-05,Algebra
+Isha Mehta,27,63,1,5,2025-09-03,Calculus
+Kavya Agarwal,89,169,3,3,2025-05-03,Data Interpretation
+Rajat Reddy,41,87,6,3,2025-10-01,Probability
+Vivek Dubey,39,81,5,4,2025-09-12,Number Systems
+Ananya Rao,12,135,5,1,2025-07-09,Probability
+Yash Reddy,52,26,9,1,2025-03-16,Algebra
+Neha Malhotra,33,156,9,4,2025-08-02,Statistics
+Tanvi Menon,19,65,5,1,2025-07-14,Mensuration
+Sakshi Gupta,31,142,8,5,2025-12-17,Probability
+Varun Bansal,32,140,10,5,2025-09-09,Number Systems
+Aditi Rao,21,105,2,1,2025-10-07,Number Systems
+Kunal Nair,23,153,10,0,2025-09-26,Algebra
+Pooja Saxena,9,27,0,3,2025-03-12,Calculus
+Kavya Singh,8,53,0,1,2025-09-16,Number Systems
+Meera Vardhan,47,30,9,5,2025-12-08,Mensuration
+Simran Verma,61,139,0,0,2025-09-30,Data Interpretation
+Divya Jain,52,18,0,4,2025-05-21,Data Interpretation
+Sakshi Shah,36,19,8,5,2025-12-12,Linear Algebra
+Nikhil Gupta,22,42,1,4,2025-03-18,Calculus
