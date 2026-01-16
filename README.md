@@ -55,7 +55,7 @@
 🎥 **Demo Video ( Direct File Link ) :** [Watch Here](PASTE_VIDEO_FILE_LINK)  
 📄 **Project Report ( Google Docs ) :** [Open Here](https://docs.google.com/document/d/1utdZKtfxae8w6aFAgvyIY_kRzNuh-BQ0nP65TjIJwcQ/edit?usp=sharing)  
 📊 **Presentation ( Google Slides ) :** [View Here](https://docs.google.com/presentation/d/10IJQf8mhEpU8XmHI8S8soGmwcySmDyfTcfdPpS_HSMg/edit?usp=sharing)  
-📊 **Colab Link :** [View Here](https://colab.research.google.com/drive/1K8EQn1D-HLlKnOO7faC3hVDrp87CuLur?usp=sharing)
+📋 **Colab Link :** [View Here](https://colab.research.google.com/drive/1K8EQn1D-HLlKnOO7faC3hVDrp87CuLur?usp=sharing)
 
 
 ---
