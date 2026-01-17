@@ -52,7 +52,7 @@
 ## Project Links 🔗
 
 📁 **Drive Folder ( All Files ) :** [Open Folder](https://drive.google.com/drive/folders/1atVCuWNVSUrkbQAzet8V5jTWNY0L__nG?usp=sharing)  
-🎥 **Demo Video ( Direct File Link ) :** [Watch Here](PASTE_VIDEO_FILE_LINK)  
+🎥 **Demo Video ( Direct File Link ) :** [Watch Here](https://drive.google.com/file/d/1r0Ee4hYc0YcWognMBI8sG8PDzLwRrC2o/view?usp=sharing)  
 📄 **Project Report ( Google Docs ) :** [Open Here](https://docs.google.com/document/d/1utdZKtfxae8w6aFAgvyIY_kRzNuh-BQ0nP65TjIJwcQ/edit?usp=sharing)  
 📊 **Presentation ( Google Slides ) :** [View Here](https://docs.google.com/presentation/d/10IJQf8mhEpU8XmHI8S8soGmwcySmDyfTcfdPpS_HSMg/edit?usp=sharing)  
 📋 **Colab Link :** [View Here](https://colab.research.google.com/drive/1K8EQn1D-HLlKnOO7faC3hVDrp87CuLur?usp=sharing)
